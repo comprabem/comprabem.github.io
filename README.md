@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>CompraBem</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+
+    header {
+      background: #0d6efd;
+      color: white;
+      padding: 30px 10px;
+    }
+
+    .box {
+      background: white;
+      padding: 15px;
+      margin: 20px auto;
+      max-width: 400px;
+      border-radius: 6px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+
+    .box img {
+      max-width: 100%;
+      border-radius: 6px;
+    }
+
+    .box a {
+      display: block;
+      margin-top: 10px;
+      padding: 12px;
+      background: #0d6efd;
+      color: white;
+      text-decoration: none;
+      border-radius: 4px;
+      font-weight: bold;
+    }
+
+    footer {
+      margin: 30px 0;
+      font-size: 14px;
+      color: #555;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>CompraBem</h1>
+  <p>Ofertas da Amazon e Mercado Livre</p>
+</header>
+
+<div class="box">
+  <img 
+    src="https://http2.mlstatic.com/D_NQ_NP_2X_620143-MLA45687878903_042021-F.webp"
+    alt="Fone de Ouvido Bluetooth">
+  
+  <h3>Fone de Ouvido Bluetooth</h3>
+
+  <p>Som de qualidade, conexão rápida e ótimo custo-benefício.</p>
+
+  <p><strong>Preço médio:</strong> confira no site</p>
+
+  <a href="https://mercadolivre.com/sec/2hGBaXs" target="_blank">
+    Comprar no Mercado Livre
+  </a>
+</div>
+
+<footer>
+  © 2026 • CompraBem  
+  <br>
+  Site de recomendações com links de afiliado
+</footer>
+
+</body>
+</html>
